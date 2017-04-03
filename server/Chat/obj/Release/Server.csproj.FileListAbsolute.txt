@@ -1,0 +1,11 @@
+C:\Users\Алексей\Desktop\25.01.16\server\Chat\bin\Release\Chat.exe
+C:\Users\Алексей\Desktop\25.01.16\server\Chat\bin\Release\Chat.pdb
+C:\Users\Алексей\Desktop\25.01.16\server\Chat\obj\Release\Chat.Server_Window.resources
+C:\Users\Алексей\Desktop\25.01.16\server\Chat\obj\Release\Chat.Properties.Resources.resources
+C:\Users\Алексей\Desktop\25.01.16\server\Chat\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\25.01.16\server\Chat\obj\Release\Chat.exe
+C:\Users\Алексей\Desktop\25.01.16\server\Chat\obj\Release\Chat.pdb
+D:\07.02.16_diplom\server\Chat\obj\Release\Chat.exe
+D:\07.02.16_diplom\server\Chat\obj\Release\Chat.pdb
+C:\Users\Алексей\Desktop\SOURCE\server\Chat\obj\Release\Chat.exe
+C:\Users\Алексей\Desktop\SOURCE\server\Chat\obj\Release\Chat.pdb

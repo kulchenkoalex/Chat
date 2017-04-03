@@ -1,0 +1,8 @@
+bin\Debug\Chat.exe
+bin\Debug\Chat.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Chat.Form1.resources
+obj\Debug\Chat.Properties.Resources.resources
+obj\Debug\Chat.csproj.GenerateResource.Cache
+obj\Debug\Chat.exe
+obj\Debug\Chat.pdb

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Param xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <autorun>false</autorun>
+  <save_user>false</save_user>
+  <save_ip>false</save_ip>
+  <newkeys>false</newkeys>
+  <keys>false</keys>
+  <autoconnect>false</autoconnect>
+  <name_user>7687</name_user>
+  <ip_server>2001:0:9d38:78cf:1cea:a556:435c:dcd1</ip_server>
+</Param>
